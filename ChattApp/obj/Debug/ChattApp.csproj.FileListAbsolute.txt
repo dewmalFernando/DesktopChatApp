@@ -1,0 +1,157 @@
+E:\C#\ChattApp\ChattApp\bin\Debug\ChattApp.exe.config
+E:\C#\ChattApp\ChattApp\bin\Debug\ChattApp.exe
+E:\C#\ChattApp\ChattApp\bin\Debug\ChattApp.pdb
+E:\C#\ChattApp\ChattApp\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+E:\C#\ChattApp\ChattApp\bin\Debug\Microsoft.VisualStudio.CoreUtility.dll
+E:\C#\ChattApp\ChattApp\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+E:\C#\ChattApp\ChattApp\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+E:\C#\ChattApp\ChattApp\bin\Debug\Microsoft.VisualStudio.Editor.dll
+E:\C#\ChattApp\ChattApp\bin\Debug\Microsoft.VisualStudio.ImageCatalog.dll
+E:\C#\ChattApp\ChattApp\bin\Debug\Microsoft.VisualStudio.Imaging.dll
+E:\C#\ChattApp\ChattApp\bin\Debug\Microsoft.VisualStudio.InteractiveWindow.dll
+E:\C#\ChattApp\ChattApp\bin\Debug\Microsoft.VisualStudio.Language.Intellisense.dll
+E:\C#\ChattApp\ChattApp\bin\Debug\Microsoft.VisualStudio.Language.StandardClassification.dll
+E:\C#\ChattApp\ChattApp\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+E:\C#\ChattApp\ChattApp\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\C#\ChattApp\ChattApp\bin\Debug\Microsoft.VisualStudio.Shell.15.0.dll
+E:\C#\ChattApp\ChattApp\bin\Debug\Microsoft.VisualStudio.Shell.Framework.dll
+E:\C#\ChattApp\ChattApp\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\C#\ChattApp\ChattApp\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+E:\C#\ChattApp\ChattApp\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\C#\ChattApp\ChattApp\bin\Debug\Microsoft.VisualStudio.Text.Data.dll
+E:\C#\ChattApp\ChattApp\bin\Debug\Microsoft.VisualStudio.Text.Logic.dll
+E:\C#\ChattApp\ChattApp\bin\Debug\Microsoft.VisualStudio.Text.UI.dll
+E:\C#\ChattApp\ChattApp\bin\Debug\Microsoft.VisualStudio.Text.UI.Wpf.dll
+E:\C#\ChattApp\ChattApp\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\C#\ChattApp\ChattApp\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\C#\ChattApp\ChattApp\bin\Debug\Microsoft.VisualStudio.Threading.dll
+E:\C#\ChattApp\ChattApp\bin\Debug\Microsoft.VisualStudio.Utilities.dll
+E:\C#\ChattApp\ChattApp\bin\Debug\Microsoft.VisualStudio.Validation.dll
+E:\C#\ChattApp\ChattApp\bin\Debug\Microsoft.VisualStudio.VsInteractiveWindow.dll
+E:\C#\ChattApp\ChattApp\bin\Debug\PropertyChanged.dll
+E:\C#\ChattApp\ChattApp\bin\Debug\stdole.dll
+E:\C#\ChattApp\ChattApp\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+E:\C#\ChattApp\ChattApp\bin\Debug\EnvDTE.dll
+E:\C#\ChattApp\ChattApp\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+E:\C#\ChattApp\ChattApp\bin\Debug\Microsoft.MSXML.dll
+E:\C#\ChattApp\ChattApp\bin\Debug\Microsoft.VisualStudio.CoreUtility.xml
+E:\C#\ChattApp\ChattApp\bin\Debug\Microsoft.VisualStudio.Data.Core.xml
+E:\C#\ChattApp\ChattApp\bin\Debug\Microsoft.VisualStudio.Data.Services.xml
+E:\C#\ChattApp\ChattApp\bin\Debug\Microsoft.VisualStudio.Editor.xml
+E:\C#\ChattApp\ChattApp\bin\Debug\Microsoft.VisualStudio.ImageCatalog.xml
+E:\C#\ChattApp\ChattApp\bin\Debug\Microsoft.VisualStudio.Imaging.xml
+E:\C#\ChattApp\ChattApp\bin\Debug\Microsoft.VisualStudio.InteractiveWindow.pdb
+E:\C#\ChattApp\ChattApp\bin\Debug\Microsoft.VisualStudio.InteractiveWindow.xml
+E:\C#\ChattApp\ChattApp\bin\Debug\Microsoft.VisualStudio.Language.Intellisense.xml
+E:\C#\ChattApp\ChattApp\bin\Debug\Microsoft.VisualStudio.Language.StandardClassification.xml
+E:\C#\ChattApp\ChattApp\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.xml
+E:\C#\ChattApp\ChattApp\bin\Debug\Microsoft.VisualStudio.OLE.Interop.xml
+E:\C#\ChattApp\ChattApp\bin\Debug\Microsoft.VisualStudio.Shell.Interop.xml
+E:\C#\ChattApp\ChattApp\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.xml
+E:\C#\ChattApp\ChattApp\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.xml
+E:\C#\ChattApp\ChattApp\bin\Debug\Microsoft.VisualStudio.Text.Data.xml
+E:\C#\ChattApp\ChattApp\bin\Debug\Microsoft.VisualStudio.Text.Logic.xml
+E:\C#\ChattApp\ChattApp\bin\Debug\Microsoft.VisualStudio.Text.UI.xml
+E:\C#\ChattApp\ChattApp\bin\Debug\Microsoft.VisualStudio.Text.UI.Wpf.xml
+E:\C#\ChattApp\ChattApp\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.xml
+E:\C#\ChattApp\ChattApp\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.xml
+E:\C#\ChattApp\ChattApp\bin\Debug\Microsoft.VisualStudio.Threading.xml
+E:\C#\ChattApp\ChattApp\bin\Debug\Microsoft.VisualStudio.Utilities.xml
+E:\C#\ChattApp\ChattApp\bin\Debug\Microsoft.VisualStudio.Validation.xml
+E:\C#\ChattApp\ChattApp\bin\Debug\Microsoft.VisualStudio.VsInteractiveWindow.pdb
+E:\C#\ChattApp\ChattApp\bin\Debug\Microsoft.VisualStudio.VsInteractiveWindow.xml
+E:\C#\ChattApp\ChattApp\bin\Debug\PropertyChanged.xml
+E:\C#\ChattApp\ChattApp\bin\Debug\cs\Microsoft.VisualStudio.InteractiveWindow.resources.dll
+E:\C#\ChattApp\ChattApp\bin\Debug\de\Microsoft.VisualStudio.InteractiveWindow.resources.dll
+E:\C#\ChattApp\ChattApp\bin\Debug\es\Microsoft.VisualStudio.InteractiveWindow.resources.dll
+E:\C#\ChattApp\ChattApp\bin\Debug\fr\Microsoft.VisualStudio.InteractiveWindow.resources.dll
+E:\C#\ChattApp\ChattApp\bin\Debug\it\Microsoft.VisualStudio.InteractiveWindow.resources.dll
+E:\C#\ChattApp\ChattApp\bin\Debug\ja\Microsoft.VisualStudio.InteractiveWindow.resources.dll
+E:\C#\ChattApp\ChattApp\bin\Debug\ko\Microsoft.VisualStudio.InteractiveWindow.resources.dll
+E:\C#\ChattApp\ChattApp\bin\Debug\pl\Microsoft.VisualStudio.InteractiveWindow.resources.dll
+E:\C#\ChattApp\ChattApp\bin\Debug\pt-BR\Microsoft.VisualStudio.InteractiveWindow.resources.dll
+E:\C#\ChattApp\ChattApp\bin\Debug\ru\Microsoft.VisualStudio.InteractiveWindow.resources.dll
+E:\C#\ChattApp\ChattApp\bin\Debug\tr\Microsoft.VisualStudio.InteractiveWindow.resources.dll
+E:\C#\ChattApp\ChattApp\bin\Debug\zh-Hans\Microsoft.VisualStudio.InteractiveWindow.resources.dll
+E:\C#\ChattApp\ChattApp\bin\Debug\zh-Hant\Microsoft.VisualStudio.InteractiveWindow.resources.dll
+E:\C#\ChattApp\ChattApp\bin\Debug\cs\Microsoft.VisualStudio.Threading.resources.dll
+E:\C#\ChattApp\ChattApp\bin\Debug\de\Microsoft.VisualStudio.Threading.resources.dll
+E:\C#\ChattApp\ChattApp\bin\Debug\es\Microsoft.VisualStudio.Threading.resources.dll
+E:\C#\ChattApp\ChattApp\bin\Debug\fr\Microsoft.VisualStudio.Threading.resources.dll
+E:\C#\ChattApp\ChattApp\bin\Debug\it\Microsoft.VisualStudio.Threading.resources.dll
+E:\C#\ChattApp\ChattApp\bin\Debug\ja\Microsoft.VisualStudio.Threading.resources.dll
+E:\C#\ChattApp\ChattApp\bin\Debug\ko\Microsoft.VisualStudio.Threading.resources.dll
+E:\C#\ChattApp\ChattApp\bin\Debug\pl\Microsoft.VisualStudio.Threading.resources.dll
+E:\C#\ChattApp\ChattApp\bin\Debug\pt-BR\Microsoft.VisualStudio.Threading.resources.dll
+E:\C#\ChattApp\ChattApp\bin\Debug\ru\Microsoft.VisualStudio.Threading.resources.dll
+E:\C#\ChattApp\ChattApp\bin\Debug\tr\Microsoft.VisualStudio.Threading.resources.dll
+E:\C#\ChattApp\ChattApp\bin\Debug\zh-Hans\Microsoft.VisualStudio.Threading.resources.dll
+E:\C#\ChattApp\ChattApp\bin\Debug\zh-Hant\Microsoft.VisualStudio.Threading.resources.dll
+E:\C#\ChattApp\ChattApp\bin\Debug\cs\Microsoft.VisualStudio.Validation.resources.dll
+E:\C#\ChattApp\ChattApp\bin\Debug\de\Microsoft.VisualStudio.Validation.resources.dll
+E:\C#\ChattApp\ChattApp\bin\Debug\es\Microsoft.VisualStudio.Validation.resources.dll
+E:\C#\ChattApp\ChattApp\bin\Debug\fr\Microsoft.VisualStudio.Validation.resources.dll
+E:\C#\ChattApp\ChattApp\bin\Debug\it\Microsoft.VisualStudio.Validation.resources.dll
+E:\C#\ChattApp\ChattApp\bin\Debug\ja\Microsoft.VisualStudio.Validation.resources.dll
+E:\C#\ChattApp\ChattApp\bin\Debug\ko\Microsoft.VisualStudio.Validation.resources.dll
+E:\C#\ChattApp\ChattApp\bin\Debug\pl\Microsoft.VisualStudio.Validation.resources.dll
+E:\C#\ChattApp\ChattApp\bin\Debug\pt-BR\Microsoft.VisualStudio.Validation.resources.dll
+E:\C#\ChattApp\ChattApp\bin\Debug\ru\Microsoft.VisualStudio.Validation.resources.dll
+E:\C#\ChattApp\ChattApp\bin\Debug\tr\Microsoft.VisualStudio.Validation.resources.dll
+E:\C#\ChattApp\ChattApp\bin\Debug\zh-Hans\Microsoft.VisualStudio.Validation.resources.dll
+E:\C#\ChattApp\ChattApp\bin\Debug\zh-Hant\Microsoft.VisualStudio.Validation.resources.dll
+E:\C#\ChattApp\ChattApp\bin\Debug\cs\Microsoft.VisualStudio.VsInteractiveWindow.resources.dll
+E:\C#\ChattApp\ChattApp\bin\Debug\de\Microsoft.VisualStudio.VsInteractiveWindow.resources.dll
+E:\C#\ChattApp\ChattApp\bin\Debug\es\Microsoft.VisualStudio.VsInteractiveWindow.resources.dll
+E:\C#\ChattApp\ChattApp\bin\Debug\fr\Microsoft.VisualStudio.VsInteractiveWindow.resources.dll
+E:\C#\ChattApp\ChattApp\bin\Debug\it\Microsoft.VisualStudio.VsInteractiveWindow.resources.dll
+E:\C#\ChattApp\ChattApp\bin\Debug\ja\Microsoft.VisualStudio.VsInteractiveWindow.resources.dll
+E:\C#\ChattApp\ChattApp\bin\Debug\ko\Microsoft.VisualStudio.VsInteractiveWindow.resources.dll
+E:\C#\ChattApp\ChattApp\bin\Debug\pl\Microsoft.VisualStudio.VsInteractiveWindow.resources.dll
+E:\C#\ChattApp\ChattApp\bin\Debug\pt-BR\Microsoft.VisualStudio.VsInteractiveWindow.resources.dll
+E:\C#\ChattApp\ChattApp\bin\Debug\ru\Microsoft.VisualStudio.VsInteractiveWindow.resources.dll
+E:\C#\ChattApp\ChattApp\bin\Debug\tr\Microsoft.VisualStudio.VsInteractiveWindow.resources.dll
+E:\C#\ChattApp\ChattApp\bin\Debug\zh-Hans\Microsoft.VisualStudio.VsInteractiveWindow.resources.dll
+E:\C#\ChattApp\ChattApp\bin\Debug\zh-Hant\Microsoft.VisualStudio.VsInteractiveWindow.resources.dll
+E:\C#\ChattApp\ChattApp\obj\Debug\Styles\Colors.baml
+E:\C#\ChattApp\ChattApp\obj\Debug\Styles\Button.baml
+E:\C#\ChattApp\ChattApp\obj\Debug\Styles\Fonts.baml
+E:\C#\ChattApp\ChattApp\obj\Debug\Pages\LoginPage.g.cs
+E:\C#\ChattApp\ChattApp\obj\Debug\MainWindow.g.cs
+E:\C#\ChattApp\ChattApp\obj\Debug\App.g.cs
+E:\C#\ChattApp\ChattApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\C#\ChattApp\ChattApp\obj\Debug\ChattApp_MarkupCompile.cache
+E:\C#\ChattApp\ChattApp\obj\Debug\ChattApp_MarkupCompile.lref
+E:\C#\ChattApp\ChattApp\obj\Debug\App.baml
+E:\C#\ChattApp\ChattApp\obj\Debug\Pages\LoginPage.baml
+E:\C#\ChattApp\ChattApp\obj\Debug\MainWindow.baml
+E:\C#\ChattApp\ChattApp\obj\Debug\Styles\Window.baml
+E:\C#\ChattApp\ChattApp\obj\Debug\Styles\Text.baml
+E:\C#\ChattApp\ChattApp\obj\Debug\ChattApp.g.resources
+E:\C#\ChattApp\ChattApp\obj\Debug\ChattApp.Properties.Resources.resources
+E:\C#\ChattApp\ChattApp\obj\Debug\ChattApp.csproj.GenerateResource.cache
+E:\C#\ChattApp\ChattApp\obj\Debug\ChattApp.csproj.Fody.CopyLocal.cache
+E:\C#\ChattApp\ChattApp\obj\Debug\ChattApp.csproj.CopyComplete
+E:\C#\ChattApp\ChattApp\obj\Debug\ChattApp.exe
+E:\C#\ChattApp\ChattApp\obj\Debug\ChattApp.pdb
+E:\Programming work\C#\ChattApp\ChattApp\obj\Debug\ChattApp.csprojAssemblyReference.cache
+E:\Programming work\C#\ChattApp\ChattApp\obj\Debug\Styles\Colors.baml
+E:\Programming work\C#\ChattApp\ChattApp\obj\Debug\Styles\Button.baml
+E:\Programming work\C#\ChattApp\ChattApp\obj\Debug\Styles\Fonts.baml
+E:\Programming work\C#\ChattApp\ChattApp\obj\Debug\Pages\LoginPage.g.cs
+E:\Programming work\C#\ChattApp\ChattApp\obj\Debug\MainWindow.g.cs
+E:\Programming work\C#\ChattApp\ChattApp\obj\Debug\App.g.cs
+E:\Programming work\C#\ChattApp\ChattApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Programming work\C#\ChattApp\ChattApp\obj\Debug\ChattApp_MarkupCompile.cache
+E:\Programming work\C#\ChattApp\ChattApp\obj\Debug\ChattApp_MarkupCompile.lref
+E:\Programming work\C#\ChattApp\ChattApp\obj\Debug\App.baml
+E:\Programming work\C#\ChattApp\ChattApp\obj\Debug\Pages\LoginPage.baml
+E:\Programming work\C#\ChattApp\ChattApp\obj\Debug\MainWindow.baml
+E:\Programming work\C#\ChattApp\ChattApp\obj\Debug\Styles\Window.baml
+E:\Programming work\C#\ChattApp\ChattApp\obj\Debug\Styles\Text.baml
+E:\Programming work\C#\ChattApp\ChattApp\obj\Debug\ChattApp.g.resources
+E:\Programming work\C#\ChattApp\ChattApp\obj\Debug\ChattApp.Properties.Resources.resources
+E:\Programming work\C#\ChattApp\ChattApp\obj\Debug\ChattApp.csproj.GenerateResource.cache
+E:\Programming work\C#\ChattApp\ChattApp\obj\Debug\ChattApp.csproj.CoreCompileInputs.cache
+E:\Programming work\C#\ChattApp\ChattApp\obj\Debug\ChattApp.exe
+E:\Programming work\C#\ChattApp\ChattApp\obj\Debug\ChattApp.pdb
